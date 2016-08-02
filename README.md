@@ -7,7 +7,7 @@ Setup
 -----
 You cannot connect an Arduino directly to the track - the signal is alternating ±10V, which would most likely damage an Arduino's 0-5V input pins. Instead, use something like the following:
 
-![Schematic](http://ss.cpfx.ca/4iufN5ns.png)
+![Schematic](http://ss.cpfx.ca/qYKU0SZk.png)
 
 Tested on an Arduino NG with an Atmega168 - where the track input must be connected on pins 2 or 3, as those are the only pins with interrupt support.
 
