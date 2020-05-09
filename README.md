@@ -13,5 +13,5 @@ Tested on an Arduino NG with an Atmega168 - where the track input must be connec
 
 Protocol Info
 -------------
-See [this comprehensive explanation of the Märklin-Motorola protocol](http://home.arcor.de/dr.koenig/digital/motorola.htm).
+See [this comprehensive explanation of the Märklin-Motorola protocol](http://www.drkoenig.de/digital/motoueb.htm).
 
